@@ -1,0 +1,122 @@
+@charset "utf-8";
+/* CSS Document */
+
+.art-shapes
+{
+   
+   overflow: hidden;
+   width:90%;
+   height: 110px;
+   margin:0 auto;
+}
+
+.cabecera{
+	width:auto;
+	height:auto;
+	
+	
+	}
+
+.cabecera img{
+	width:70%;
+	height:auto;
+	
+}
+
+
+.art-header
+{
+   margin:0 auto;
+   position:relative;
+   height: 130px;
+   background-image: url('../images/header.png');
+   background-position: center top;
+   background-repeat:repeat-x;
+}
+
+.top
+{
+   width:100%;
+   height:45px;
+  /* margin:0 auto;*/
+  position: relative;
+  background: #003399;
+  background: -moz-linear-gradient(left,#003399 0%,#0094d9 50%,#003399 100%);
+  background: -webkit-gradient(linear,left top,right top,color-stop(0%,#003399),color-stop(50%,#0094d9),color-stop(100%,#003399));
+  background: -webkit-linear-gradient(left,#003399 0%,#0094d9 50%,#003399 100%);
+  background: -o-linear-gradient(left,#003399 0%,#0094d9 50%,#003399 100%);
+  background: -ms-linear-gradient(left,#003399 0%,#0094d9 50%,#003399 100%);
+  background: linear-gradient(to right,#003399 0%,#0094d9 50%,#003399 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#003399',endColorstr='#003399',GradientType=1);
+
+
+}
+
+.top .topheader
+{
+	
+	
+	/*margin: 0px;*/
+    position: relative;
+	width: 80%;
+	
+    	
+}
+
+.menuAdmin ul{ margin: 0px; }
+
+.menuAdmin  ul li{list-style:none; display:inline-block;  margin:0px 10px; float:left; position:relative; top:15px;}
+
+.menuAdmin li a { color:#00F; font-size:12px; text-decoration:none;}
+
+.top .topheader  ul{ margin: 0px; }
+
+.top .topheader  ul li  {list-style:none; display:inline-block;  margin:0px 10px; float:left; position:relative; top:15px;}
+
+.top .topheader li a { color:#FFF; font-size:12px; text-decoration:none;  }
+
+.top .topheader li a:hover { color:#FFA866; text-decoration:none; }
+
+.top .topheader .top-separator
+{
+   width: 1px;
+   height: 15px;
+   background:url(../images/timeline2.png) center center no-repeat;
+   position:relative; top:15px;
+}
+
+.top .topheader h3 { color:#FFF; float:right; margin-right:60px; }
+
+
+.
+
+.art-shapes .art-object2002529336
+{
+	
+	float:left;
+	width:60%;
+	background-color:#696;
+    
+}
+
+art-shapes .art-object2002529336 img
+{
+	
+	margin: 0 auto;
+	position:relative;
+	top:0px;
+}
+
+.art-header .art-object1563443277
+{
+   	float:left;
+	width:40%;
+	
+	
+	}
+
+/*.art-shapes .art-object1563443277 h4
+{
+	
+	
+}*/
